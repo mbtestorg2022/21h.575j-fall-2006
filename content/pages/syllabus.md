@@ -19,12 +19,57 @@ The chronological focus of this course is on the condition of women in the subco
 Course Requirements and Grading
 -------------------------------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Two short essays (20% each) | 40% |
-| Research paper and presentation | 30% |
-| Internet assignment | 10% |
-| Class participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two short essays (20% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Internet assignment
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please see [assignments]({{< baseurl >}}/pages/assignments) for more detailed descriptions of the above.
 
@@ -52,39 +97,387 @@ Students should familiarize themselves with the Student Code of the University a
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**1\. Introduction: Studying women in cross cultural perspective**{{< /td-colspan >}} |||
-| 1 | Writing South Asian women's history | &nbsp; |
-| 2 | India: The historical and social context | &nbsp; |
-| 3 | Library tour | &nbsp; |
-| {{< td-colspan 3 >}}**2\. Prescriptive literature and gendered roles**{{< /td-colspan >}} |||
-| 4 | Women as mothers, daughters, and daughters in law | &nbsp; |
-| 5 | Wives, courtesans and concubines | Sign up for individual meetings |
-| 6 | Divinities and devotees | &nbsp; |
-| {{< td-colspan 3 >}}**3\. Defining Indian women in the 19th century**{{< /td-colspan >}} |||
-| 7 | Defining women: Social reforms | &nbsp; |
-| 8 | Comparison between men and women in the 19th century |  {{< br >}}{{< br >}} Class discussion on _Comparison Between Men and Women_ {{< br >}}{{< br >}} Individual meetings to report on research progress due one day after Ses #8 {{< br >}}{{< br >}}  |
-| 9 | Reforms in education and religion | Critical essay on _Comparison Between Men and Women_ due |
-| 10 | Gender and law in colonial India | &nbsp; |
-| {{< td-colspan 3 >}}**4\. Becoming "mothers" of the nation**{{< /td-colspan >}} |||
-| 11 | The good wife and mother | &nbsp; |
-| 12 | Inside out: _Andarmahal_, _harem_ and political participation | &nbsp; |
-| 13 | Women's work and working women | &nbsp; |
-| {{< td-colspan 3 >}}**5\. Empowering women: Gandhi, birth control and the franchise**{{< /td-colspan >}} |||
-| 14 | Gandhi and women | &nbsp; |
-| 15 | Birth control and public health | &nbsp; |
-| 16 | Organizations and activism in colonial India | Individual meetings to report on research progress due two days after Ses #16 |
-| {{< td-colspan 3 >}}**6\. Identities and social realities in post-1947 South Asia**{{< /td-colspan >}} |||
-| 17 | Partitioned nations, partitioned bodies | Class discussion on _The River Churning_ |
-| 18 | Campaigns against dowry, rape and sati | &nbsp; |
-| 19 | Personal law vs. uniform civil code | Critical essay on _The River Churning_ due |
-| {{< td-colspan 3 >}}**7\. Women and their nations**{{< /td-colspan >}} |||
-| 20 | Era of women leader | &nbsp; |
-| 21 | Dangerous liaisons: Religious fundamentalisms | Internet assignment due |
-| 22 | Iconic representations: Sexuality and gender in popular culture | &nbsp; |
-| {{< td-colspan 3 >}}**8\. Tracking progress: South Asian women in the 21st century**{{< /td-colspan >}} |||
-| 23 | Student presentations | &nbsp; |
-| 24 | Contemporary debates on feminism | &nbsp; |
-| 25 | Globalization and South Asian women | &nbsp; |
-| 26 | Conclusions | Final research paper due one day after Ses #26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1\. Introduction: Studying women in cross cultural perspective**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Writing South Asian women's history
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+India: The historical and social context
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Library tour
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2\. Prescriptive literature and gendered roles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Women as mothers, daughters, and daughters in law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Wives, courtesans and concubines
+{{< tdclose >}}
+{{< tdopen >}}
+Sign up for individual meetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Divinities and devotees
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3\. Defining Indian women in the 19th century**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Defining women: Social reforms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Comparison between men and women in the 19th century
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class discussion on _Comparison Between Men and Women_
+
+Individual meetings to report on research progress due one day after Ses #8
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Reforms in education and religion
+{{< tdclose >}}
+{{< tdopen >}}
+Critical essay on _Comparison Between Men and Women_ due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Gender and law in colonial India
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**4\. Becoming "mothers" of the nation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The good wife and mother
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Inside out: _Andarmahal_, _harem_ and political participation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Women's work and working women
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**5\. Empowering women: Gandhi, birth control and the franchise**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Gandhi and women
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Birth control and public health
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Organizations and activism in colonial India
+{{< tdclose >}}
+{{< tdopen >}}
+Individual meetings to report on research progress due two days after Ses #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**6\. Identities and social realities in post-1947 South Asia**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Partitioned nations, partitioned bodies
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion on _The River Churning_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Campaigns against dowry, rape and sati
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Personal law vs. uniform civil code
+{{< tdclose >}}
+{{< tdopen >}}
+Critical essay on _The River Churning_ due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**7\. Women and their nations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Era of women leader
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Dangerous liaisons: Religious fundamentalisms
+{{< tdclose >}}
+{{< tdopen >}}
+Internet assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Iconic representations: Sexuality and gender in popular culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**8\. Tracking progress: South Asian women in the 21st century**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Contemporary debates on feminism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization and South Asian women
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions
+{{< tdclose >}}
+{{< tdopen >}}
+Final research paper due one day after Ses #26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
